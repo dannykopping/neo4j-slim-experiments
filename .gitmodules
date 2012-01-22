@@ -1,0 +1,9 @@
+[submodule "slim"]
+	path = slim
+	url = git@github.com:dannykopping/Slim.git
+[submodule "slim-plugins"]
+	path = slim-plugins
+	url = git@github.com:dannykopping/Slim-Extras.git
+[submodule "neo4jphp"]
+	path = neo4jphp
+	url = https://github.com/jadell/neo4jphp.git
